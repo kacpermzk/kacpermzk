@@ -24,4 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacpermzk&show_icons=true&theme=dark&locale=en" alt="kacpermzk" /></p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/kacpermzk?theme=dark&font=baloo&extension=null)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacpermzk&show_icons=true&theme=dark&locale=en&layout=compact" alt="kacpermzk" /></p>
