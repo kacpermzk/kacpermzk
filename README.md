@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/skrapidapidu" target="blank"><img src="https://img.shields.io/twitter/follow/skrapidapidu?logo=twitter&style=for-the-badge" alt="skrapidapidu" /></a> </p>
 🤙
-- 🔭 I’m currently working on building my own App **Bl!tz**
+- 🔭 I’m currently working on building my own App **Bl!tz** and Creating New Projects for Portfolio
 
 - 🌱 I’m currently learning **Swift / IOS Development**
 
