@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacpermzk&show_icons=true&theme=radical&locale=en" alt="kacpermzk" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacpermzk&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kacpermzk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
